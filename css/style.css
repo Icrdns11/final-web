@@ -1027,4 +1027,7 @@ a:active{
     a:hover{
         color: #02b4c2;
     }
+    a:active{
+    color:#02c8d6 !important;
+}
 }
