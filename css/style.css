@@ -437,6 +437,7 @@ footer {
 
 a{
     transition: color 0.2s;
+    font-family: 'Open Sans', sans-serif !important;
 }
 
 a:active{
