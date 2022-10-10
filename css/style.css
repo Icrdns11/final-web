@@ -21,7 +21,7 @@ body::-webkit-scrollbar-thumb{
     backdrop-filter: blur(5.5px);
     -webkit-backdrop-filter: blur(5.5px);
     border-radius: 10px;
-    border: 1px solid rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
 }
 
 #loader{
