@@ -440,7 +440,7 @@ a{
 }
 
 a:active{
-    color:#02c8d6 ;
+    color:#02c8d6 !important;
 }
 /* modal */
 
