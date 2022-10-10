@@ -165,6 +165,6 @@ border-radius: 10px;
     .prod:hover{
         box-shadow:  5px 5px 7px #cdcdcd,
         -5px -5px 7px #cdcdcd;
-        transform: scale(1.01);
+        transform: scale(1.005);
     }
 }
