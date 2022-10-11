@@ -28,9 +28,9 @@ body{
 }
 
 .slider-img{
-    filter: brightness(53%);
--webkit-filter: brightness(53%);
--moz-filter: brightness(53%);
+    filter: brightness(70%);
+-webkit-filter: brightness(70%);
+-moz-filter: brightness(70%);
 }
 .slider-img2{
     filter: brightness(80%);
