@@ -6,6 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Graficar's</title>
+    <script type="text/javascript"
+  src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+<script type="text/javascript">
+  emailjs.init('UgwipOgG1QChFHkTL')
+</script>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   <link rel="shortcut icon" href="../img/icons/ico/fav.png" type="image/x-icon">
@@ -249,39 +254,34 @@
       <div class="modf">
         <div class="ctf">
           <h2 class="text-center">Contacto</h2>
-          <div>
-            <div id="change">
+          <div id="change">
               <form id="form">
-                <div>
-                  <label for="name" class="p cfp">Nombre:</label>
-                  <input for="name" type="name" placeholder="Escribe tu Nombre" class="form-input fit" name="name"
-                    id="name">
+                <div class="field">
+                  <label for="from_name" class="p cfp">Nombre:</label>
+                  <input for="name" placeholder="Escribe tu Nombre" class="form-input fit" type="text" name="from_name" id="from_name" required>
                 </div>
-                <div id="error">
+                <div class="field">
+                  <label for="email_id" class="p cfp">Correo Electrónico:</label><br>
+                  <input type="email" placeholder="123@gmail.com" class="form-input fit" name="email_id" id="email_id" required>
                 </div>
-                <div>
-                  <label for="email" class="p cfp">Correo Electrónico:</label><br>
-                  <input type="email" placeholder="123@gmail.com" class="form-input fit" id="email">
-                </div>
-                <div>
+                <div class="field">
                   <label for="message-text" class="p cfp">Mensaje:</label>
-                  <textarea class="text form-input fim" id="mensaje" placeholder="Escribe tu mensaje"></textarea>
+                  <textarea class="text form-input fim" type="text" name="message" id="message" placeholder="Escribe tu mensaje" required></textarea>
                 </div>
                 <div class="d-flex justify-content-between justify-content-lg-end">
                   <button type="button" class="bot-sec-az cl" onclick="ocform()">Cerrar</button>
-                  <button type="submit" class="cta" id="cta-cont">Enviar</button>
+                  <button type="submit" class="cta" id="button" value="Send Email">Enviar</button>
                 </div>
               </form>
-            </div>
-            <div id="mensaje-en" class=" flex-column align-items-center justify-content-center">
+          </div>
+          <div id="mensaje-en" class=" flex-column align-items-center justify-content-center">
               <p class="pm text-center mensaje-en">Su mensaje ha sido recibido</p>
               <button type="button" class="bot-sec-az" onclick="ocform()">Cerrar Ventana</button>
-            </div>
+          </div>
           </div>
         </div>
       </div>
     </div>
-</div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
