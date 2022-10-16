@@ -206,7 +206,7 @@ header {
 
 .bot-sec-bl:active {
     background-color: #eaebf6;
-    color: #1C1E3F;
+    color: #1C1E3F !important;
 }
 
 .bot-sec-bl-sm {
@@ -229,7 +229,7 @@ header {
     background-color: #eaebf6;
     border-color: #1C1E3F;
     border-width: 1px;
-    color: #1C1E3F;
+    color: #1C1E3F !important;
 }
 
 .bot-sec-az {
@@ -252,7 +252,7 @@ header {
     background-color: #eaebf6;
     border-color: #1C1E3F;
     border-width: 1px;
-    color: #1C1E3F;
+    color: #1C1E3F !important;
 }
 
 .bot-sec-az-sm {
@@ -275,7 +275,7 @@ header {
     background-color: #eaebf6;
     border-color: #1C1E3F;
     border-width: 1px;
-    color: #1C1E3F;
+    color: #1C1E3F !important;
 }
 
 /* boton cta */
@@ -300,7 +300,7 @@ header {
     background-color: #e9fdff;
     border-color: #02b4c2;
     border-width: 1px;
-    color: #02b4c2;
+    color: #02b4c2 !important;
     line-height: 16px;
 }
 
@@ -327,7 +327,7 @@ header {
     background-color: #e9fdff;
     border-color: #02b4c2;
     border-width: 1px;
-    color: #02b4c2;
+    color: #02b4c2 !important;
 }
 
 .cta-s {
@@ -349,7 +349,7 @@ header {
     background-color: #e9fdff;
     border-color: #02b4c2;
     border-width: 1px;
-    color: #02b4c2;
+    color: #02b4c2 !important;
 }
 
 /* Color */
