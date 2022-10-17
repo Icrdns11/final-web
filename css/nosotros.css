@@ -7,7 +7,7 @@
 /* Para moviles*/
 @media screen and (max-width:576px){
     .body{
-        width:100%
+        max-width:576px !important;
     }
     .historia{
         height: 550px;
