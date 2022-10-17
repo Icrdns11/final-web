@@ -3,7 +3,6 @@
 }
 .vm{
     border-radius: 10px;
-    /*transition: 0.3s ease-in-out;*/
 }
 /* Para moviles*/
 @media screen and (max-width:576px){
