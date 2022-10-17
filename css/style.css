@@ -205,7 +205,7 @@ header {
 
 
 .bot-sec-bl:active {
-    background-color: #eaebf6;
+    background-color: #eaebf6 !important;
     color: #1C1E3F !important;
 }
 
@@ -226,9 +226,9 @@ header {
 
 
 .bot-sec-bl-sm:active {
-    background-color: #eaebf6;
-    border-color: #1C1E3F;
-    border-width: 1px;
+    background-color: #eaebf6 !important;
+    border-color: #1C1E3F !important;
+    border-width: 1px !important;
     color: #1C1E3F !important;
 }
 
@@ -249,10 +249,10 @@ header {
 
 
 .bot-sec-az:active {
-    background-color: #eaebf6;
-    border-color: #1C1E3F;
-    border-width: 1px;
-    color: #1C1E3F !important;
+    background-color: #eaebf6 !important;
+    border-color: #1C1E3F !important;
+    border-width: 1px !important;
+    color: #1C1E3F!important;
 }
 
 .bot-sec-az-sm {
@@ -272,9 +272,9 @@ header {
 
 
 .bot-sec-az-sm:active {
-    background-color: #eaebf6;
-    border-color: #1C1E3F;
-    border-width: 1px;
+    background-color: #eaebf6 !important;
+    border-color: #1C1E3F !important;
+    border-width: 1px !important;
     color: #1C1E3F !important;
 }
 
@@ -297,11 +297,11 @@ header {
 }
 
 .cta-movil:active {
-    background-color: #e9fdff;
-    border-color: #02b4c2;
-    border-width: 1px;
+    background-color: #e9fdff !important;
+    border-color: #02b4c2 !important;
+    border-width: 1px !important;
     color: #02b4c2 !important;
-    line-height: 16px;
+    line-height: 16px !important;
 }
 
 .iconocontacto{
@@ -324,9 +324,9 @@ header {
 
 
 .cta:active {
-    background-color: #e9fdff;
-    border-color: #02b4c2;
-    border-width: 1px;
+    background-color: #e9fdff !important;
+    border-color: #02b4c2 !important;
+    border-width: 1px !important;
     color: #02b4c2 !important;
 }
 
@@ -346,9 +346,9 @@ header {
 
 
 .cta-s:active {
-    background-color: #e9fdff;
-    border-color: #02b4c2;
-    border-width: 1px;
+    background-color: #e9fdff !important;
+    border-color: #02b4c2 !important;
+    border-width: 1px !important;
     color: #02b4c2 !important;
 }
 
@@ -624,7 +624,7 @@ a:active{
         margin-top: 60px;
     }
 
-    h2 {
+    h2, h1 {
         font-size: 50px;
         font-weight: 700;
         margin-bottom: 20px;
@@ -776,7 +776,7 @@ a:active{
         margin-top: 70px;
     }
 
-    h2 {
+    h2, h1 {
         margin-bottom: 40px;
     }
 
@@ -847,7 +847,7 @@ a:active{
         margin-top: 80px;
     }
 
-    h2 {
+    h2,h1 {
         margin-bottom: 30px;
     }
 
@@ -908,7 +908,7 @@ a:active{
 
 /* Para tab y pc */
 @media screen and (min-width: 576px) {
-    h2 {
+    h2,h1 {
         font-size: 64px;
         font-weight: 700 !important;
         line-height: 75px;
