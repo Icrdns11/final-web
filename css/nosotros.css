@@ -4,7 +4,7 @@
 .vm{
     border-radius: 10px;
 }
-/* Para moviles*/
+/* Para moviles
 @media screen and (max-width:576px){
     .historia{
         height: 550px;
@@ -32,7 +32,7 @@
     .cli-img{
         margin-bottom: 20px;
     }
-}
+}*/
 /* Para tab */
 @media screen and (min-width:576px) and (max-width:992px){
     .historia{
