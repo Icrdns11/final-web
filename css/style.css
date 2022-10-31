@@ -968,8 +968,11 @@ a:active{
         visibility: hidden;
     }
 }
-
-
+@media screen and (min-width:992px) and (max-width:1068px){
+    .modf {
+        padding: 40px 114px;
+    }
+}
 @media (hover:hover){
     .menu-link:hover {
         color: #02b4c2;

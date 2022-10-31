@@ -112,6 +112,11 @@
         padding: 50px;
     }
 }
+@media screen and (min-width:992px) and (max-width:1068px){
+    .card-ser{
+        padding: 50px 40px;
+    }
+}
 @media (hover:hover) {
     .card-ser:hover{
         transform: scale(1.05);

@@ -89,3 +89,8 @@
         margin-bottom: 50px;
     }
 }
+@media screen and (min-width:992px) and (max-width:1068px){
+    .his{
+        padding:  0px 280px;
+    }
+}
