@@ -1034,3 +1034,58 @@ a:active{
     color:#02c8d6 !important;
 }
 }
+@media screen and (max-width: 240px) {
+    body{
+        width: 240px !important;
+    }
+    section{
+        width: 240px !important;
+    }
+    footer{
+        width: 240px !important;
+    }
+    .bread{
+        width: 240px !important;
+        overflow: scroll;
+    }
+    .sliderpara{
+        width: 240px !important;
+        overflow: scroll;
+    }
+    .bot-sec-az.cl{
+        padding: 10px 20px;
+    }
+    #button.cta , .bot-sec-az , .bot-sec-bl{
+        padding: 10px !important;
+    }
+    .cta{
+        padding: 10px !important;
+    }
+    .fit{
+        height: 30px;
+    }
+    .fim{
+        height: 40px;
+    }
+    .back-form , .gal-mod{
+        height: 100% !important;
+    }
+    .menu-desp-tab {
+        padding: 15px;
+    }
+    [data-aos-delay="100"] a img{
+        width: 120px;
+    }
+    
+}
+
+@media screen and (max-width: 320px) {
+    .historia{
+        height: auto !important;
+        padding: 10px !important;
+    }
+    .work-hero{
+        height: 650px !important;
+    }
+}
+
