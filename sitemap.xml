@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://final-web-icrdns11.vercel.app/index.html</loc>
+  <lastmod>2023-11-15T22:52:38+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://final-web-icrdns11.vercel.app/pages/trabajos.html</loc>
+  <lastmod>2023-11-15T22:52:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://final-web-icrdns11.vercel.app/pages/nosotros.html</loc>
+  <lastmod>2023-11-15T22:52:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://final-web-icrdns11.vercel.app/pages/servicios.html</loc>
+  <lastmod>2023-11-15T22:52:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://final-web-icrdns11.vercel.app/pages/impresion.html</loc>
+  <lastmod>2023-11-15T22:52:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://final-web-icrdns11.vercel.app/pages/acabados.html</loc>
+  <lastmod>2023-11-15T22:52:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://final-web-icrdns11.vercel.app/pages/corte.html</loc>
+  <lastmod>2023-11-15T22:52:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
